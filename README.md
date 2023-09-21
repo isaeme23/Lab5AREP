@@ -19,11 +19,11 @@ pero este puede ser modificado.
 
 En su aplicacion de Docker Desktop se podra ve rla siguiente informacion:
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 Luego, podra ver en el puerto asignado la ejecucion del codigo presente en la imagen:
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 ## Bono Parcial
 Para ejecutar el codigo correspondiente, descargue este repositorio y ejecute el siguiente comando:
@@ -32,14 +32,14 @@ Para ejecutar el codigo correspondiente, descargue este repositorio y ejecute el
 
 Luego, en su buscador busque la siguiente direccion:
 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 
 Alli podra encontrar formas para los distintos metodos desarrollados usando Spark:
 
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![img_3.png](img/img_3.png)
+![img_4.png](img/img_4.png)
+![img_5.png](img/img_5.png)
+![img_6.png](img/img_6.png)
 
 ## Autor
 Isabella Manrique
